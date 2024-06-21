@@ -6,9 +6,7 @@ Este programa utiliza la API Gutendex para buscar libros y sus datos como títul
 así como el autor y sus datos: fecha de nacimiento y fecha de fallecimiento.
 Estos datos son guardados en una base de datos, que en este caso utilizamos PostgreSQL.
 La base de datos contiene las tablas: libros y autores, en donde se almacena los datos consultados.
-
-
-
+\n
 Las utilidades de este programa son:
 
 1.- Buscar libros en la API Gutendex y guardaros en la base de datos.
@@ -21,9 +19,7 @@ Las utilidades de este programa son:
 
 5.- Buscar libros dependiendo del idioma en el que están escritos (registrados en la DB).
 
-
-
-
+\n
 Tecnologías usadas: Java, PostgreSQL, Spring Framework.
 
 Desarrollador: Manuel Medrano (con ayuda del equipo Alura LATAM, y compañeros del G6 de ONE).
