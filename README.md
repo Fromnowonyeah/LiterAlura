@@ -8,11 +8,17 @@ Estos datos son guardados en una base de datos, que en este caso utilizamos Post
 La base de datos contiene las tablas: libros y autores, en donde se almacena los datos consultados.
 
 Las utilidades de este programa son:
+
 1.- Buscar libros en la API Gutendex y guardaros en la base de datos.
+
 2.- Accesar a la información guardada de los libros registrados en la DB.
+
 3.- Accesar a la información guardada de los autores registrados en la DB.
+
 4.- Proporcionar un año y encontrar a los autores vivos en ese tiempo (registrados en la DB).
+
 5.- Buscar libros dependiendo del idioma en el que están escritos (registrados en la DB).
+
 
 Tecnologías usadas: Java, PostgreSQL, Spring Framework.
 
