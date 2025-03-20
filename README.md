@@ -10,7 +10,7 @@ La base de datos contiene las tablas: libros y autores, en donde se almacena los
 
 Las utilidades de este programa son:
 
-1.- Buscar libros en la API Gutendex y guardaros en la base de datos.
+1.- Buscar libros en la API Gutendex y guardarlos en la base de datos.
 
 2.- Accesar a la información guardada de los libros registrados en la DB.
 
